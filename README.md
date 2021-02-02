@@ -6,4 +6,4 @@ an 8 key macropad
 * microcontrollers and keyswtiches from boardsource.xyz
 * keycaps from signature plastics
 * m2 hardware from a kit
-* firmware from (QMK)[https://qmk.fm/]
+* firmware from [QMK](https://qmk.fm/)
