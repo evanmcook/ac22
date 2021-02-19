@@ -8,4 +8,4 @@ an 8 key macropad
 * m2 hardware from a kit
 * firmware from [QMK](https://qmk.fm/)
 
-<img src="https://github.com/evanmcook/nornsShieldPrintedUtilities/blob/main/images/top.JPG" width="50%">
+<img src="https://github.com/evanmcook/ac22/blob/main/images/top.JPG" width="50%">
