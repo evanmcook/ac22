@@ -7,3 +7,5 @@ an 8 key macropad
 * keycaps from [signature plastics](https://pimpmykeyboard.com) in BFV, RCG, WAN for blue, pink, white
 * m2 hardware from a kit
 * firmware from [QMK](https://qmk.fm/)
+
+<img src = "images\top.JPG" width = "50%">
