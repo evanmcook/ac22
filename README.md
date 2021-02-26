@@ -9,3 +9,4 @@ an 8 key macropad
 * firmware from [QMK](https://qmk.fm/)
 
 <img src="https://github.com/evanmcook/ac22/blob/main/images/top.jpg" width="50%">
+<img src="https://github.com/evanmcook/ac22/blob/main/images/bot.jpg" width="50%">
